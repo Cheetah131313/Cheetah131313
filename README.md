@@ -40,6 +40,11 @@ I am currently completing my bachelor's degree and looking for an internship or 
 * Evolutionary Algorithms
 * Optimization Algorithms
 * IoT
+  
+## Contact
+Email: anastasie.zdarska@seznam.cz
+
+I'm currently looking for an internship or junior software developer position and I'm always open to discussing interesting projects and opportunities.
 
 ## Featured Projects
 
